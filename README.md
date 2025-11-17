@@ -7,19 +7,19 @@ Learning in public, building real projects, and sharing knowledge with the world
 
 # 🌐 Welcome to Cloud-Projects
 
-This public repository documents a hands-on, practical, and fully transparent learning journey into Cloud Engineering & DevOps.
+* This public repository documents a hands-on, practical, and fully transparent learning journey into Cloud Engineering & DevOps.
 
 Whether you’re just starting or already working in tech, this repo aims to help you:
 
-Understand cloud technologies from zero to expert level
+* Understand cloud technologies from zero to expert level
 
-Build and deploy real-world cloud projects
+* Build and deploy real-world cloud projects
 
-Learn the fundamentals and advanced concepts through practical demonstrations
+* Learn the fundamentals and advanced concepts through practical demonstrations
 
-Grow the mindset of a Cloud/DevOps Engineer
+* Grow the mindset of a Cloud/DevOps Engineer
 
-Get inspired to learn in public and contribute to the community
+* Get inspired to learn in public and contribute to the community
 
 ⭐ Remember: It’s always Day 1 — keep learning, keep building, and stay curious.
 
